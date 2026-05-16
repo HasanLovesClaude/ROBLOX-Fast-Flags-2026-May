@@ -72,7 +72,7 @@
 # Lighting
 
 ### Voxel Lighting (Phase 1)
-
+>recommended for fps
 ```json
 {
     "DFFlagDebugRenderForceTechnologyVoxel": "True"
@@ -108,5 +108,66 @@
 ```json
 {
     "FIntUnifiedLightingBlendZone": "500"
+}
+```
+
+# Graphics
+
+### Resolution
+>144p = 37 | 
+>240p = 77 | 
+>360p = 230 | 
+>480p = 410 | 
+>720p = 922 | 
+>1080p = 2074 | 
+>1440p = 3686 | 
+>2160p (4k) = 8294 | 
+>4320p (8k) = 33178
+```json
+{
+    "DFIntDebugDynamicRenderKiloPixels": "1"
+}
+```
+
+### Disable PostFX
+>the name ofc
+```json
+{
+    "FFlagDisablePostFx": "True"
+}
+```
+
+### Shiny Surfaces (semi-shaders)
+>Makes things shiny | got some good knife inspects with this
+```json
+{
+    "DFIntRenderClampRoughnessMax": "-640000000",
+    "DFIntDebugFRMQualityLevelOverridge": "6"
+}
+```
+
+### Grey Sky
+>gray sky
+```json
+{
+    "FFlagDebugSkyGray": "True"
+}
+```
+
+### Textures
+>1-5 is blurry | 6+ removes textures
+
+```json
+{
+    "FIntDebugTextureManagerSkipMips": "1"
+}
+```
+
+### Force MSAA
+>ONLY values 1, 2, 4, 8 | Higher = Cleaner, less pixelated lines
+
+```json
+{
+    "FIntDebugForcMSAASamples": "4"
 }
 ```
