@@ -1,9 +1,9 @@
 ### Server https://discord.gg/g4bJDKUanD
-# ALLOW LIST
+# Allow List
 
 ### Roblox has introduced a [Fast Flag Allowlist](https://devforum.roblox.com/t/allowlist-for-local-client-configuration-via-fast-flags/3966569) to enhance platform security and stability. This system limits the number of locally configurable Fast Flags to those explicitly listed, preventing misuse and ensuring a more stable experience for all users. The allowlist is subject to change based on platform needs and community feedback. To use Fast Flags that are not in the allowlist, you must use a Fast Flag injector.
 
-# INJECTORS
+# Injectors
 
 ##### **VELOSTRAP AHK:** Requires Auto Hotkey v2 | Open Source | Might be Sketchy **use at your own risk** | Download this Injector in The Velostrap Discord server at https://discord.gg/QJhNQ3gDM
 
@@ -25,7 +25,7 @@
 
 ##### **(4anti) FASTFLAG MANAGER:** Clean and rich ui | a bit more advanced and complicated | Buggy | Good features and customization | Download at  https://github.com/4anti/Roblox-Fastflag-Manager/releases/tag/v3.3.5
 
-# RENDERING
+# Rendering
 
 ### Vulkcan
 
@@ -66,5 +66,47 @@
 ```json
 {
     "FFlagDebugGraphicsPreferMetal": "True"
+}
+```
+
+# Lighting
+
+### Voxel Lighting (Phase 1)
+
+```json
+{
+    "DFFlagDebugRenderForceTechnologyVoxel": "True"
+}
+```
+
+### Shadowmap Lighting (Phase 2)
+
+```json
+{
+    "FFlagDebugForceFutureIsBrightPhase2": "True"
+}
+```
+
+### Future Lighting (Phase 3)
+
+```json
+{
+    "FFlagDebugForceFutureIsBrightPhase3": "True"
+}
+```
+### Unified Lighting
+
+```json
+{
+    "FFlagRnderUnifiedLighting12": "True",
+    "FFlagUnifedLightingBetaFeature": "True"
+}
+```
+
+### Unified Lighting Blendzone
+
+```json
+{
+    "FIntUnifiedLightingBlendZone": "500"
 }
 ```
