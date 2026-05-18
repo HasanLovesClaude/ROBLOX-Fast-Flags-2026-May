@@ -236,3 +236,44 @@
 }
 ```
 
+# Quality Of Life
+
+### Disable Notifications
+>Basically Do Not Disturb
+
+```json
+{
+    "FFlagToastNotificationsProtocolEnabled2": "False"
+}
+```
+
+### Disable VC
+>Pretty useless ig
+
+```json
+{
+    "DFFlagVoiceChat4": "False"
+}
+```
+
+### Hide GUI
+>Replace "ID" with any group ID that you are in | Ctrl + Shift + B	Toggles GUIs in 3D space (BillboardGuis, SurfaceGuis, etc) | Ctrl + Shift + C	Toggles game-defined ScreenGuis | Ctrl + Shift + G	Toggles Roblox CoreGuis | Ctrl + Shift + N	Toggles player names, and other BillboardGuis that show up above a player
+
+```json
+{
+    "DFIntCanHideGuiGroupId": "ID"
+}
+```
+
+### Webview
+>Click the Beta Badge of the 13+ badge to open the webview browser.
+
+```json
+{
+    "FFlagTopBarUseNewBadge": "True",
+    "FStringTopBarBadgeLearnMoreLink": "https://udm14.com/",
+    "FStringVoiceBetaBadgeLearnMoreLink": "https://udm14.com/"
+}
+```
+
+###
