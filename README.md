@@ -146,14 +146,6 @@
 }
 ```
 
-### Grey Sky
->gray sky
-```json
-{
-    "FFlagDebugSkyGray": "True"
-}
-```
-
 ### Textures
 >1-5 is blurry | 6+ removes textures
 
@@ -171,3 +163,76 @@
     "FIntDebugForcMSAASamples": "4"
 }
 ```
+
+### Force Graphics Quality Level
+>Turn ingame slider up for high render distance and level 1 graphics
+
+```json
+{
+    "DFIntDebugFRMQualityLevelOverride": "1"
+}
+```
+
+### Pause Voxelizers
+>Can make games dark but +fps
+
+```json
+{
+    "DFIntDebugFRMQualityLevelOverride": "1"
+}
+```
+
+### Grey Sky
+>Only in games with default skybox
+
+```json
+{
+    "FFlagDebugSkyGray": "True"
+}
+```
+
+### GpuLightCulling
+>idek
+
+```json
+{
+    "FFlagDebugForceFSMCPULightCulling": "True"
+}
+```
+
+### Terrain Texture Quality
+>4 less quality | 16 32 64 for higher quality
+
+```json
+{
+    "FIntTerrainArraySliceSize": "4"
+}
+```
+
+### No Avatar Textures
+
+```json
+{
+    "DFIntTextureCompositorActiveJobs": "0"
+}
+```
+
+### Remove Grass
+
+```json
+{
+    "FIntFRMMinGrassDistance": "0",
+    "FIntFRMMaxGrassDistance": "0",
+    "FIntRenderGrassDetailStrands": "0",
+}
+```
+
+### Render Distance From Camera
+> Distance from camera not charactor/person
+
+```json
+{
+  "FIntCameraFarZPlane": "100"
+}
+```
+
