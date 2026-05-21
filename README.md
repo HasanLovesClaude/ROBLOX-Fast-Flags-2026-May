@@ -17,7 +17,7 @@
 
 
 
-##### **DAVESTRAP NEW:** New and improved Injector | advanced | Uses all the new features and also works Flawlessly | Download at               https://github.com/davelovestars/fflag-injector-new-version/releases
+##### **DAVESTRAP NEW:** New and improved Injector | advanced | Uses all the new features and also works Flawlessly | Download at               https://github.com/davelovestars/oldinjector-version-working/blob/main/
 
 
 
@@ -99,7 +99,7 @@
 ```json
 {
     "FFlagRnderUnifiedLighting12": "True",
-    "FFlagUnifedLightingBetaFeature": "True"
+    "FFlagUnifiedLightingBetaFeature": "True"
 }
 ```
 
@@ -142,7 +142,7 @@
 ```json
 {
     "DFIntRenderClampRoughnessMax": "-640000000",
-    "DFIntDebugFRMQualityLevelOverridge": "6"
+    "DFIntDebugFRMQualityLevelOverride": "6"
 }
 ```
 
@@ -160,7 +160,7 @@
 
 ```json
 {
-    "FIntDebugForcMSAASamples": "4"
+    "FIntDebugForceMSAASamples": "4"
 }
 ```
 
@@ -223,7 +223,7 @@
 {
     "FIntFRMMinGrassDistance": "0",
     "FIntFRMMaxGrassDistance": "0",
-    "FIntRenderGrassDetailStrands": "0",
+    "FIntRenderGrassDetailStrands": "0"
 }
 ```
 
