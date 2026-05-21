@@ -11,19 +11,19 @@
 
 
 
-##### **DAVESTRAP OLD:** Original Injector that's well known and trusted | New Dumper Was Added So it Works Flawlessly After The Patch | Download at https://github.com/davelovestars/oldinjector-version-working/blob/main/fastflag\_injector\_gui\_enhanced.exe
+##### **DAVESTRAP OLD:** Original Injector that's well known and trusted | New Dumper Was Added So it Works Flawlessly After The Patch | Download at               https://github.com/davelovestars/oldinjector-version-working/blob/main/fastflag_injector_gui_enhanced.exe
 
 
 
 
 
-##### **DAVESTRAP NEW:** New and improved Injector | advanced | Uses all the new features and also works Flawlessly | Download at               https://github.com/davelovestars/oldinjector-version-working/blob/main/
+##### **DAVESTRAP NEW:** New and improved Injector | advanced | Uses all the new features and also works Flawlessly | Download at               https://github.com/davelovestars/fflag-injector-new-version/releases
 
 
 
 
 
-##### **(4anti) FASTFLAG MANAGER:** Clean and rich ui | a bit more advanced and complicated | Buggy | Good features and customization | Download at  https://github.com/4anti/Roblox-Fastflag-Manager/releases/tag/v3.3.5
+##### **(4anti) FASTFLAG MANAGER:** Clean and rich ui | a bit more advanced and complicated | Buggy | Good features and customization | Download at  https://github.com/4anti/Roblox-Fastflag-Manager/releases/tag/v3.3.7
 
 # Rendering
 
